@@ -2,8 +2,8 @@ apply plugin: 'java'
 apply plugin: 'application'
 
 //specify main class
-mainClassName = "movies.MovieDownloader"
-//mainClassName = "movies.ThreadDemo"
+//mainClassName = "movies.MovieDownloader"
+mainClassName = "movies.ThreadDemo"
 
 
 run {
